@@ -1,0 +1,277 @@
+{
+  "updatedAt": "2026-04-16T00:00:00Z",
+  "experience": [
+    {
+      "title": "Senior Vice President, CIO – Shared Services and Infrastructure",
+      "org": "USAA (San Antonio, TX)",
+      "startAt": "2023-01-01",
+      "bullets": [
+        "Led engineering, infrastructure, and IT business services organization of 2,500+ resources.",
+        "Held $800M budget responsibility and PMO oversight for $100M in annual IT projects.",
+        "Ran shared services and infrastructure in a large, regulated financial-services environment with accountability for operational reliability, modernization, and execution discipline."
+      ]
+    },
+    {
+      "title": "Vice President – Enterprise IT Architecture",
+      "org": "USAA (San Antonio, TX)",
+      "startAt": "2015-08-01",
+      "endAt": "2023-01-31",
+      "bullets": [
+        "Led enterprise architecture across USAA's multi-line business, including Life, Property & Casualty, Banking, and enterprise technology.",
+        "Set architecture direction for cloud adoption across line-of-business platforms.",
+        "Advanced machine learning and artificial intelligence applications in financial-services use cases.",
+        "Provided enterprise technology direction during a significant period of modernization and platform change."
+      ]
+    },
+    {
+      "title": "CIO, Property & Casualty (Interim)",
+      "org": "USAA",
+      "startAt": "2017-04-01",
+      "endAt": "2017-10-31",
+      "bullets": [
+        "Led 1,200+ technology resources supporting USAA's Property & Casualty business during a leadership transition.",
+        "Drove initial selection of a core-system replacement for a $20B+ direct written premium insurance company, replacing a 20-year legacy platform."
+      ]
+    },
+    {
+      "title": "Assistant Vice President – P&C Systems",
+      "org": "USAA",
+      "startAt": "2014-10-01",
+      "endAt": "2015-08-31",
+      "bullets": [
+        "Led the software development organization supporting USAA's Property & Casualty business."
+      ]
+    },
+    {
+      "title": "Assistant Vice President – Quality Assurance",
+      "org": "USAA",
+      "startAt": "2011-10-01",
+      "endAt": "2014-10-31",
+      "bullets": [
+        "Led a 190-employee and 950+ contractor QA organization supporting roughly $650M+ in annual software development.",
+        "Built a 3-year strategy for the QA organization and led its transition to agile development practices.",
+        "Managed $133M+ budget."
+      ]
+    },
+    {
+      "title": "Assistant Vice President – Distributed Systems & Systems Management",
+      "org": "USAA",
+      "startAt": "2010-03-01",
+      "endAt": "2011-11-30",
+      "bullets": [
+        "Led day-to-day operations for distributed systems, server environments, desktop support, and core operational tooling.",
+        "Managed 11 groups with 140+ employees and roughly $40M operating budget.",
+        "Achieved more than 70% datacenter virtualization and negotiated multimillion-dollar hardware and software deals that delivered more than $5M savings in 2011."
+      ]
+    },
+    {
+      "title": "Assistant Vice President – Availability Assurance",
+      "org": "USAA",
+      "startAt": "2007-08-01",
+      "endAt": "2010-03-31",
+      "bullets": [
+        "Built USAA's Availability Command Center, a virtual NOC spanning the United States and India, in eight months.",
+        "Led a direct team of 50 and indirect team of 600 in support of 24x7x365 operations and 1.5M+ monthly batch jobs.",
+        "Reduced return-to-service time 25% year over year and eliminated on-call schedules while maintaining round-the-clock support."
+      ]
+    },
+    {
+      "title": "Director, Enterprise Infrastructure Architecture and Standards Management",
+      "org": "Honeywell (Phoenix, AZ)",
+      "startAt": "2006-06-01",
+      "endAt": "2007-08-31",
+      "bullets": [
+        "Led worldwide enterprise infrastructure architecture and standards and helped guide Honeywell's global IT technology roadmap.",
+        "Developed architecture supporting consolidation of more than 500 data centers into two global facilities.",
+        "Helped reshape a $300M global telecommunications network and established TOGAF-based enterprise architecture consistency at executive level."
+      ]
+    },
+    {
+      "title": "Global Leader, Infrastructure Applications",
+      "org": "Honeywell International",
+      "startAt": "2004-09-01",
+      "endAt": "2006-06-30",
+      "bullets": [
+        "Led global infrastructure application hosting, messaging, identity, and security operations for more than 100,000 users across 1,300+ facilities.",
+        "Delivered the largest Microsoft Exchange migration in company history, moving 22,000 users in three days.",
+        "Consolidated more than 400 resource domains and integrated 18 acquisitions in 12 months, generating multimillion-dollar annual savings."
+      ]
+    },
+    {
+      "title": "Director, Standards & Architecture",
+      "org": "LSG Sky Chefs (Dallas, TX)",
+      "startAt": "2003-01-01",
+      "endAt": "2004-09-30",
+      "bullets": [
+        "Served as principal technical authority for global infrastructure and IT security.",
+        "Designed and led a global infrastructure refresh with EUR 8M capital budget.",
+        "Deployed MPLS across 25+ countries, cutting annual telecommunications spend 25%, and drove data-center consolidation that reduced operating costs 35%."
+      ]
+    },
+    {
+      "title": "Consultant",
+      "org": "Accenture (formerly Andersen Consulting)",
+      "startAt": "2000-12-01",
+      "endAt": "2003-12-31",
+      "bullets": [
+        "Led infrastructure engineering on enterprise client engagements across North and South America.",
+        "Implemented ITIL-based service-delivery organizations, managed IT RFPs exceeding EUR 25M, and led system-engineering teams through complex transformation programs."
+      ]
+    },
+    {
+      "title": "Consultant",
+      "org": "Clearview Management Consultants",
+      "startAt": "1999-01-01",
+      "endAt": "2000-12-31",
+      "bullets": [
+        "Led technical delivery on data-center, SLA, and infrastructure improvement engagements.",
+        "Delivered a data-center build-out that saved a client $1.5M annually and managed transition from IBM contract support to in-house operations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Texas A&M University, College Station, TX",
+      "degree": "B.S. in Economics",
+      "startAt": "1996-01-01",
+      "endAt": "2000-01-01"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Technology Strategy",
+      "Enterprise Architecture",
+      "Technology Operations",
+      "Operational Resilience",
+      "Cloud Strategy",
+      "Digital Transformation",
+      "IT Governance",
+      "Infrastructure Modernization",
+      "Artificial Intelligence",
+      "IT Financial Management"
+    ],
+    "tools": [
+      "Enterprise Program Delivery",
+      "SRE and Reliability Engineering",
+      "Vendor Management",
+      "Architecture Governance",
+      "Shared Services",
+      "PMO Oversight"
+    ],
+    "soft": [
+      "Strategic leadership",
+      "Cross-functional execution",
+      "Organizational transformation"
+    ]
+  },
+  "patents": [
+    {
+      "title": "Learning based metric determination and clustering for service routing",
+      "patentNumber": "12184814",
+      "issuedAt": "2024-12-31",
+      "url": "https://patents.google.com/patent/US12184814B1/en"
+    },
+    {
+      "title": "Estimation using image analysis",
+      "patentNumber": "11836910",
+      "issuedAt": "2023-12-05",
+      "url": "https://patents.google.com/patent/US11836910B1/en"
+    },
+    {
+      "title": "Learning based metric determination for service sessions",
+      "patentNumber": "11272057",
+      "issuedAt": "2022-03-08",
+      "url": "https://patents.google.com/patent/US11272057B1/en"
+    },
+    {
+      "title": "Estimation using image analysis",
+      "patentNumber": "11176659",
+      "issuedAt": "2021-11-16",
+      "url": "https://patents.google.com/patent/US11176659B1/en"
+    },
+    {
+      "title": "Learning based metric determination for service sessions",
+      "patentNumber": "11146682",
+      "issuedAt": "2021-10-12",
+      "url": "https://patents.google.com/patent/US11146682B1/en"
+    },
+    {
+      "title": "Learning based metric determination and clustering for service routing",
+      "patentNumber": "11140268",
+      "issuedAt": "2021-10-05",
+      "url": "https://patents.google.com/patent/US11140268B1/en"
+    },
+    {
+      "title": "Learning based metric determination for service sessions",
+      "patentNumber": "10855844",
+      "issuedAt": "2020-12-01",
+      "url": "https://patents.google.com/patent/US10855844B1/en"
+    },
+    {
+      "title": "Learning based metric determination for service sessions",
+      "patentNumber": "10848621",
+      "issuedAt": "2020-11-24",
+      "url": "https://patents.google.com/patent/US10848621B1/en"
+    },
+    {
+      "title": "Rapid data access",
+      "patentNumber": "10771623",
+      "issuedAt": "2020-09-08",
+      "url": "https://patents.google.com/patent/US10771623B1/en"
+    },
+    {
+      "title": "Dynamic resource allocation",
+      "patentNumber": "10757263",
+      "issuedAt": "2020-08-25",
+      "url": "https://patents.google.com/patent/US10757263B1/en"
+    },
+    {
+      "title": "Learning based metric determination and clustering for service routing",
+      "patentNumber": "10715668",
+      "issuedAt": "2020-07-14",
+      "url": "https://patents.google.com/patent/US10715668B1/en"
+    },
+    {
+      "title": "Dynamic resource allocation",
+      "patentNumber": "10715665",
+      "issuedAt": "2020-07-14",
+      "url": "https://patents.google.com/patent/US10715665B1/en"
+    },
+    {
+      "title": "Estimation using image analysis",
+      "patentNumber": "10510142",
+      "issuedAt": "2019-12-17",
+      "url": "https://patents.google.com/patent/US10510142B1/en"
+    },
+    {
+      "title": "Dynamic resource allocation",
+      "patentNumber": "10477024",
+      "issuedAt": "2019-11-12",
+      "url": "https://patents.google.com/patent/US10477024B1/en"
+    },
+    {
+      "title": "Rapid data access",
+      "patentNumber": "10477014",
+      "issuedAt": "2019-11-12",
+      "url": "https://patents.google.com/patent/US10477014B1/en"
+    }
+  ],
+  "publications": [],
+  "certifications": [
+    "Quality Assurance leadership and enterprise transformation experience"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/jmcte"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnmteneyckjr"
+    },
+    {
+      "label": "Personal site",
+      "url": "https://acmeos.org"
+    }
+  ]
+}

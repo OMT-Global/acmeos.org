@@ -1,0 +1,40 @@
+{
+  "name": "John McChesney TenEyck Jr.",
+  "handle": "jmcte",
+  "title": "CIO / CTO | Enterprise Technology Executive | Financial Services, Architecture, Infrastructure and Operations",
+  "bio": "Enterprise technology executive with 25+ years leading architecture, infrastructure, shared services, operations, and large-scale transformation in regulated global environments. Most recently led a 2,500-person engineering, infrastructure, and IT business services organization with $800M budget responsibility and oversight of $100M in annual IT projects.",
+  "location": "Texas, USA",
+  "website": "https://acmeos.org",
+  "updatedAt": "2026-03-13T20:12:00Z",
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/jmcte",
+      "handle": "jmcte"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnmteneyckjr",
+      "handle": "johnmteneyckjr"
+    }
+  ],
+  "availability": "Open to senior CIO, CTO, and enterprise technology leadership conversations.",
+  "pronouns": "he/him",
+  "skills": [
+    "Technology Strategy",
+    "Enterprise Architecture",
+    "Technology Operations",
+    "Operational Resilience",
+    "Cloud Strategy",
+    "Digital Transformation",
+    "IT Governance",
+    "Infrastructure Modernization",
+    "Artificial Intelligence",
+    "Vendor Management",
+    "IT Financial Management"
+  ],
+  "contactVisibility": "private",
+  "certifications": [
+    "Quality assurance leadership and enterprise transformation experience"
+  ]
+}
